@@ -24,11 +24,13 @@ title: Japanese
 - <u>Takuya Fukuoka</u>, Shigeyuki Sato and Kenjiro Taura:  
   **Pitfalls of InfiniBand with On-Demand Paging**.  
   [International Symposium on Performance Analysis of Systems and Software](https://www.ispass.org/ispass2021/), ISPASS '21, March 2021.  
+  acceptance rate: 36.9% (24/65)  
   (Paper) (Slides) (Video)
 
 - <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:  
   **An Efficient Inter-Node Communication System with Lightweight-Thread Scheduling**.  
   [International Conference on High Performance Computing and Communications](http://csee.hnu.edu.cn/hpcc2019/), HPCC '19, August 2019.  
+  acceptance rate: 24.6%  
   (Paper) (Slides)
 
 ### 国内学会発表・査読あり
@@ -58,13 +60,13 @@ title: Japanese
 - **Finding and Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand** (InfiniBandのオンデマンドページングの性能問題の発見と分析)  
   Master Thesis, January 2021.  
   (Thesis) (Slides)
-- **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling** (効率的な軽量スレッドスケジューリングによる ノード間通信システムの実装)  
+- **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling** (効率的な軽量スレッドスケジューリングによるノード間通信システムの実装)  
   Bachelor Thesis, February 2019.
 
 ## インターンシップ参加経験
 - **株式会社 Preferred Networks サマーインターン参加** 
     - 2019年8月 〜 2019年9月
-    - プライベートクラウドのチームで最適化の研究に従事
+    - プライベートクラウドの最適化の研究に従事
 - **株式会社 フィックスターズ 長期インターン参加**
     - 2019年3月 〜 2020年1月
     - 主にSIMD命令を用いたソフトウェアの高速化のプロジェクトに従事
@@ -81,7 +83,12 @@ title: Japanese
 ## スキル
 - C, C++
 - Python
+- 並列プログラミング
+    - MPI, OpenMP, Pthread, CUDA, AVX命令
+- RDMA (Remote Direct Memory Access)
+    - InfiniBand verbs
 - サーバ管理
+    - LDAP, DNS, DHCP, NFS, POP3, SMTP, IPMI
 
 ## 資格
 - TOEIC 900 (R:445 L:455)
@@ -89,3 +96,7 @@ title: Japanese
 - 珠算二段
 - 暗算五段
 - 普通自動車免許
+
+## その他
+- [Blog](http://tkygtr6.hatenablog.com/)
+- [SlideShare](https://www.slideshare.net/TakuyaFukuoka2/)
