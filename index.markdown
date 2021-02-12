@@ -4,6 +4,8 @@
 
 layout: default
 title: Japanese
+lang: ja
+
 ---
 
 ## Takuya Fukuoka / 福岡 拓也
