@@ -16,14 +16,14 @@ title: Japanese
 
 ## 研究
 
-学部から修士までの三年間、[田浦研究室](https://www.eidos.ic.i.u-tokyo.ac.jp/)に所属していました。  
+学部から修士までの三年間、[田浦研究室](https://www.eidos.ic.i.u-tokyo.ac.jp/)に所属しています。  
 主な専門分野は、分散並列処理、高性能計算、ネットワーク、RDMA、システムソフトウェアなどです。  
 
 ### 国際学会発表・査読あり
 
 - <u>Takuya Fukuoka</u>, Shigeyuki Sato and Kenjiro Taura:  
   **Pitfalls of InfiniBand with On-Demand Paging**.  
-  [International Symposium on Performance Analysis of Systems and Software](https://www.ispass.org/ispass2021/), ISPASS '21, March 2021.  
+  [International Symposium on Performance Analysis of Systems and Software](https://www.ispass.org/ispass2021/), ISPASS '21, March 2021. (to appear)  
   acceptance rate: 36.9% (24/65)  
   (Paper) (Slides) (Video)
 
@@ -31,7 +31,7 @@ title: Japanese
   **An Efficient Inter-Node Communication System with Lightweight-Thread Scheduling**.  
   [International Conference on High Performance Computing and Communications](http://csee.hnu.edu.cn/hpcc2019/), HPCC '19, August 2019.  
   acceptance rate: 24.6%  
-  (Paper) (Slides)
+  ([Paper](/pub/HPCC19_paper.pdf)) ([Slides](/pub/HPCC19_slides.pdf))
 
 ### 国内学会発表・査読あり
 
@@ -39,15 +39,15 @@ title: Japanese
   **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling**.  
   [The 3rd cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming](http://xsig.ipsj.or.jp/2019/), xSIG '19, May 2019.  
   **Best Undergraduate Student Award**  
-  (Slides)
+  ([Slides](/pub/xSIG19_slides.pdf))
 
 ### 国内学会発表・査読なし
 
 - <u>Takuya Fukuoka</u>, Shigeyuki Sato and Kenjiro Taura:  
   **Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand**.  
   [2020年並列／分散／協調処理に関する『福井』サマー・ワークショップ](https://sites.google.com/site/swoppweb/), SWoPP '20, August 2020.  
-  **第150回OS研究会 最優秀若手発表賞**
-  (Paper) (Slides)
+  **第150回OS研究会 最優秀若手発表賞**  
+  ([Paper](http://id.nii.ac.jp/1001/00206246/)) ([Slides](/pub/SWoPP20_slides.pdf))
 
 ### 国内ポスター発表・査読なし
 
@@ -59,7 +59,8 @@ title: Japanese
 
 - **Finding and Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand** (InfiniBandのオンデマンドページングの性能問題の発見と分析)  
   Master Thesis, January 2021.  
-  (Thesis) (Slides)
+  (Thesis) ([Slides](/pub/master_thesis_slides.pdf))
+  <!-- ([Thesis](/pub/master_thesis.pdf)) ([Slides](/pub/master_thesis_slides.pdf)) -->
 - **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling** (効率的な軽量スレッドスケジューリングによるノード間通信システムの実装)  
   Bachelor Thesis, February 2019.
 
