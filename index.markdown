@@ -39,16 +39,16 @@ lang: ja
 
 - <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:  
   **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling**.  
-  [The 3rd cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming](http://xsig.ipsj.or.jp/2019/), xSIG '19, May 2019.  
-  **Best Undergraduate Student Award**  
+  [The 3rd cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming](http://xsig.ipsj.or.jp/2019/), xSIG '19, May 2019. <br>
+  <font color="Crimson">Best Undergraduate Student Award</font>  
   ([Slides](/pub/xSIG19_slides.pdf))
 
 ### 国内学会発表・査読なし
 
 - <u>Takuya Fukuoka</u>, Shigeyuki Sato and Kenjiro Taura:  
   **Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand**.  
-  [2020年並列／分散／協調処理に関する『福井』サマー・ワークショップ](https://sites.google.com/site/swoppweb/), SWoPP '20, August 2020.  
-  **第150回OS研究会 最優秀若手発表賞**  
+  [2020年並列／分散／協調処理に関する『福井』サマー・ワークショップ](https://sites.google.com/site/swoppweb/), SWoPP '20, August 2020. <br>
+  <font color="Crimson">第150回OS研究会 最優秀若手発表賞</font>  
   ([Paper](http://id.nii.ac.jp/1001/00206246/)) ([Slides](/pub/SWoPP20_slides.pdf))
 
 ### 国内ポスター発表・査読なし
