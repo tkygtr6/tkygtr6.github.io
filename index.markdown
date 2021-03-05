@@ -27,7 +27,7 @@ lang: ja
   **Pitfalls of InfiniBand with On-Demand Paging**.  
   [International Symposium on Performance Analysis of Systems and Software](https://www.ispass.org/ispass2021/), ISPASS '21, March 2021. (to appear)  
   acceptance rate: 36.9% (24/65)  
-  (Paper) (Slides) (Video)
+  ([Paper](/pub/ISPASS21_paper.pdf)) (Slides) (Video)
 
 - <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:  
   **An Efficient Inter-Node Communication System with Lightweight-Thread Scheduling**.  
@@ -61,8 +61,7 @@ lang: ja
 
 - **Finding and Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand** (InfiniBandのオンデマンドページングの性能問題の発見と分析)  
   Master Thesis, January 2021.  
-  (Thesis) ([Slides](/pub/master_thesis_slides.pdf))
-  <!-- ([Thesis](/pub/master_thesis.pdf)) ([Slides](/pub/master_thesis_slides.pdf)) -->
+  ([Thesis](/pub/master_thesis.pdf)) ([Slides](/pub/master_thesis_slides.pdf))  
 - **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling** (効率的な軽量スレッドスケジューリングによるノード間通信システムの実装)  
   Bachelor Thesis, February 2019.
 
