@@ -27,7 +27,7 @@ lang: ja
   **Pitfalls of InfiniBand with On-Demand Paging**.  
   [International Symposium on Performance Analysis of Systems and Software](https://www.ispass.org/ispass2021/), ISPASS '21, March 2021. (to appear)  
   acceptance rate: 36.9% (24/65)  
-  ([Paper](/pub/ISPASS21_paper.pdf)) (Slides) (Video)
+  ([Paper](/pub/ISPASS21_paper.pdf)) ([Slides](/pub/ISPASS21_slide.pdf)) (Video)
 
 - <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:  
   **An Efficient Inter-Node Communication System with Lightweight-Thread Scheduling**.  
