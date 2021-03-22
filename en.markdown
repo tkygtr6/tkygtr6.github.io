@@ -14,7 +14,7 @@ permalink: /en/
 
 ## Research
 
-I have belonged to [Taura Laboratory](https://www.eidos.ic.i.u-tokyo.ac.jp/) for three years from B4 to M2.  
+I had belonged to [Taura Laboratory](https://www.eidos.ic.i.u-tokyo.ac.jp/) for three years from B4 to M2.  
 My research interests are on parallel and distributed computing, high-performance computing, networking (especially Remote Direct Memory Access, RDMA), and System Software.
 
 ### International Conferences (refereed)
