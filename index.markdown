@@ -25,9 +25,9 @@ lang: ja
 
 - <u>Takuya Fukuoka</u>, Shigeyuki Sato and Kenjiro Taura:  
   **Pitfalls of InfiniBand with On-Demand Paging**.  
-  [International Symposium on Performance Analysis of Systems and Software](https://www.ispass.org/ispass2021/), ISPASS '21, March 2021. (to appear)  
+  [International Symposium on Performance Analysis of Systems and Software](https://www.ispass.org/ispass2021/), ISPASS '21, March 2021.
   acceptance rate: 36.9% (24/65)  
-  ([Paper](/pub/ISPASS21_paper.pdf)) ([Slides](/pub/ISPASS21_slides.pdf)) (Video)
+  ([Paper](/pub/ISPASS21_paper.pdf)) ([Slides](/pub/ISPASS21_slides.pdf))  
 
 - <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:  
   **An Efficient Inter-Node Communication System with Lightweight-Thread Scheduling**.  
