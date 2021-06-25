@@ -72,7 +72,8 @@ My research interests are on parallel and distributed computing, high-performanc
 
 ## Certifications
 - TOEIC 900 (R:445 L:455)
-- (Non-registered) Registered Information Security Specialist
+- (Non-registered) Registered Information Security Specialist (IPA, JITEC)
+- Network Specialist Examination (IPA, JITEC)
 
 ## Others
 - [Blog](http://tkygtr6.hatenablog.com/) (in Japanese)
