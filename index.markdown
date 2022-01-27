@@ -18,55 +18,55 @@ lang: ja
 
 ## 研究
 
-学部から修士までの三年間、[田浦研究室](https://www.eidos.ic.i.u-tokyo.ac.jp/)に所属していました。  
-主な専門分野は、分散並列処理、高性能計算、ネットワーク、RDMA、システムソフトウェアなどです。  
+学部から修士までの三年間、[田浦研究室](https://www.eidos.ic.i.u-tokyo.ac.jp/)に所属していました。
+主な専門分野は、分散並列処理、高性能計算、ネットワーク、RDMA、システムソフトウェアなどです。
 
 ### 国際学会発表・査読あり
 
-- <u>Takuya Fukuoka</u>, Shigeyuki Sato and Kenjiro Taura:  
-  **Pitfalls of InfiniBand with On-Demand Paging**.  
+- <u>Takuya Fukuoka</u>, Shigeyuki Sato and Kenjiro Taura:
+  **Pitfalls of InfiniBand with On-Demand Paging**.
   [International Symposium on Performance Analysis of Systems and Software](https://www.ispass.org/ispass2021/), ISPASS '21, March 2021.
-  acceptance rate: 36.9% (24/65)  
-  ([Paper](/pub/ISPASS21_paper.pdf)) ([Slides](/pub/ISPASS21_slides.pdf))  
+  acceptance rate: 36.9% (24/65)
+  ([Paper](/pub/ISPASS21_paper.pdf)) ([Slides](/pub/ISPASS21_slides.pdf))
 
-- <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:  
-  **An Efficient Inter-Node Communication System with Lightweight-Thread Scheduling**.  
-  [International Conference on High Performance Computing and Communications](http://csee.hnu.edu.cn/hpcc2019/), HPCC '19, August 2019.  
-  acceptance rate: 24.6%  
+- <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:
+  **An Efficient Inter-Node Communication System with Lightweight-Thread Scheduling**.
+  [International Conference on High Performance Computing and Communications](http://csee.hnu.edu.cn/hpcc2019/), HPCC '19, August 2019.
+  acceptance rate: 24.6%
   ([Paper](/pub/HPCC19_paper.pdf)) ([Slides](/pub/HPCC19_slides.pdf))
 
 ### 国内学会発表・査読あり
 
-- <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:  
-  **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling**.  
+- <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:
+  **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling**.
   [The 3rd cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming](http://xsig.ipsj.or.jp/2019/), xSIG '19, May 2019. <br>
-  <font color="Crimson">Best Undergraduate Student Award</font>  
+  <font color="Crimson">Best Undergraduate Student Award</font>
   ([Slides](/pub/xSIG19_slides.pdf))
 
 ### 国内学会発表・査読なし
 
-- <u>Takuya Fukuoka</u>, Shigeyuki Sato and Kenjiro Taura:  
-  **Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand**.  
+- <u>Takuya Fukuoka</u>, Shigeyuki Sato and Kenjiro Taura:
+  **Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand**.
   [2020年並列／分散／協調処理に関する『福井』サマー・ワークショップ](https://sites.google.com/site/swoppweb/), SWoPP '20, August 2020. <br>
-  <font color="Crimson">第150回OS研究会 最優秀若手発表賞</font>  
+  <font color="Crimson">第150回OS研究会 最優秀若手発表賞</font>
   ([Paper](http://id.nii.ac.jp/1001/00206246/)) ([Slides](/pub/SWoPP20_slides.pdf))
 
 ### 国内ポスター発表・査読なし
 
-- <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:  
-  **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling**.  
-  [The 3rd cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming](http://xsig.ipsj.or.jp/2019/), xSIG '19, May 2019.  
+- <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:
+  **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling**.
+  [The 3rd cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming](http://xsig.ipsj.or.jp/2019/), xSIG '19, May 2019.
 
 ### 学位論文
 
-- **Finding and Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand** (InfiniBandのオンデマンドページングの性能問題の発見と分析)  
-  Master Thesis, January 2021.  
-  ([Thesis](/pub/master_thesis.pdf)) ([Slides](/pub/master_thesis_slides.pdf))  
-- **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling** (効率的な軽量スレッドスケジューリングによるノード間通信システムの実装)  
+- **Finding and Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand** (InfiniBandのオンデマンドページングの性能問題の発見と分析)
+  Master Thesis, January 2021.
+  ([Thesis](/pub/master_thesis.pdf)) ([Slides](/pub/master_thesis_slides.pdf))
+- **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling** (効率的な軽量スレッドスケジューリングによるノード間通信システムの実装)
   Bachelor Thesis, February 2019.
 
 ## インターンシップ参加経験
-- **株式会社 Preferred Networks サマーインターン参加** 
+- **株式会社 Preferred Networks サマーインターン参加**
     - 2019/8 -- 2019/9
     - プライベートクラウドの最適化の研究に従事
 - **株式会社 フィックスターズ 長期インターン参加**
@@ -93,10 +93,10 @@ lang: ja
     - LDAP, DNS, DHCP, NFS, POP3, SMTP, IPMI
 
 ## 資格
-- TOEIC 900 (R:445 L:455)
-- 情報処理安全確保支援士 (未登録)
+- TOEIC 970 (online)
 - ネットワークスペシャリスト
 - データベーススペシャリスト
+- 情報処理安全確保支援士 (未登録)
 - 珠算二段
 - 暗算五段
 - 普通自動車免許

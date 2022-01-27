@@ -14,29 +14,29 @@ permalink: /en/
 
 ## Research
 
-I had belonged to [Taura Laboratory](https://www.eidos.ic.i.u-tokyo.ac.jp/) for three years from B4 to M2.  
+I had belonged to [Taura Laboratory](https://www.eidos.ic.i.u-tokyo.ac.jp/) for three years from B4 to M2.
 My research interests are on parallel and distributed computing, high-performance computing, networking (especially Remote Direct Memory Access, RDMA), and System Software.
 
 ### International Conferences (refereed)
 
-- <u>Takuya Fukuoka</u>, Shigeyuki Sato and Kenjiro Taura:  
-  **Pitfalls of InfiniBand with On-Demand Paging**.  
-  [International Symposium on Performance Analysis of Systems and Software](https://www.ispass.org/ispass2021/), ISPASS '21, March 2021.  
-  acceptance rate: 36.9% (24/65)  
+- <u>Takuya Fukuoka</u>, Shigeyuki Sato and Kenjiro Taura:
+  **Pitfalls of InfiniBand with On-Demand Paging**.
+  [International Symposium on Performance Analysis of Systems and Software](https://www.ispass.org/ispass2021/), ISPASS '21, March 2021.
+  acceptance rate: 36.9% (24/65)
   ([Paper](/pub/ISPASS21_paper.pdf)) ([Slides](/pub/ISPASS21_slides.pdf))
 
-- <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:  
-  **An Efficient Inter-Node Communication System with Lightweight-Thread Scheduling**.  
-  [International Conference on High Performance Computing and Communications](http://csee.hnu.edu.cn/hpcc2019/), HPCC '19, August 2019.  
-  acceptance rate: 24.6%  
+- <u>Takuya Fukuoka</u>, Wataru Endo and Kenjiro Taura:
+  **An Efficient Inter-Node Communication System with Lightweight-Thread Scheduling**.
+  [International Conference on High Performance Computing and Communications](http://csee.hnu.edu.cn/hpcc2019/), HPCC '19, August 2019.
+  acceptance rate: 24.6%
   ([Paper](/pub/HPCC19_paper.pdf)) ([Slides](/pub/HPCC19_slides.pdf))
 
 ### Dissertations
 
-- **Finding and Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand**  
-  Master Thesis, January 2021.  
-  ([Thesis](/pub/master_thesis.pdf)) ([Slides](/pub/master_thesis_slides.pdf))  
-- **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling**  
+- **Finding and Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand**
+  Master Thesis, January 2021.
+  ([Thesis](/pub/master_thesis.pdf)) ([Slides](/pub/master_thesis_slides.pdf))
+- **An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling**
   Bachelor Thesis, February 2019.
 
 ## Awards
@@ -44,7 +44,7 @@ My research interests are on parallel and distributed computing, high-performanc
 - [Best Young Presentation Award](http://xsig.ipsj.or.jp/2019/awards/) in xSIG'19, May 2019
 
 ## Internship Experiences
-- **Preferred Networks Summer Internship** 
+- **Preferred Networks Summer Internship**
     - 2019/8 -- 2019/9
     - Engaged in a research project related to the optimization of the usage of in-house clusters in PFN.
 - **Fixstars Long-term Internship**
@@ -71,10 +71,10 @@ My research interests are on parallel and distributed computing, high-performanc
     - LDAP, DNS, DHCP, NFS, POP3, SMTP, IPMI
 
 ## Certifications
-- TOEIC 900 (R:445 L:455)
-- (Non-registered) Registered Information Security Specialist (IPA, JITEC)
+- TOEIC 970 (online)
 - Network Specialist Examination (IPA, JITEC)
 - Database Specialist Examination (IPA, JITEC)
+- (Non-registered) Registered Information Security Specialist (IPA, JITEC)
 
 ## Others
 - [Blog](http://tkygtr6.hatenablog.com/) (in Japanese)
