@@ -40,7 +40,7 @@ My research interests are on parallel and distributed computing, high-performanc
   Bachelor Thesis, February 2019.
 
 ## Awards
-- [Best Undergraduate Student Award](http://www.ipsj.or.jp/sig/os/index.php?2020%C7%AF7%B7%EE%B8%A6%B5%E6%B2%F1) in 150th SIGOS in Japan, August 2019
+- [Best Undergraduate Student Award](http://www.ipsj.or.jp/sig/os/index.php?2020%C7%AF7%B7%EE%B8%A6%B5%E6%B2%F1) in 150th SIGOS in Japan, August 2021
 - [Best Young Presentation Award](http://xsig.ipsj.or.jp/2019/awards/) in xSIG'19, May 2019
 
 ## Internship Experiences
