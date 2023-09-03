@@ -75,6 +75,7 @@ My research interests are on parallel and distributed computing, high-performanc
 - Network Specialist Examination (IPA, JITEC)
 - Database Specialist Examination (IPA, JITEC)
 - (Non-registered) Registered Information Security Specialist (IPA, JITEC)
+- Certified ScrumMaster® (Scrum Alliance)
 
 ## Others
 - [Blog](http://tkygtr6.hatenablog.com/) (in Japanese)
