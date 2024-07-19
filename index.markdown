@@ -102,6 +102,11 @@ lang: ja
 - 暗算五段
 - 普通自動車免許
 
+## 執筆
+- [HPE Discover 2024 参加報告](https://engineers.ntt.com/entry/202407-hpe-discover-2024/entry)
+- [リリースプロセス改善のために工夫して自動化を推し進めたらチームの底力が爆上がりした話](https://engineers.ntt.com/entry/2024/06/05/135137)
+- [「業務で ISUCON することになった話」について Tech Night で発表しました](https://engineers.ntt.com/entry/2022/10/12/080909)
+
 ## その他
 - [Blog](http://tkygtr6.hatenablog.com/)
 - [SlideShare](https://www.slideshare.net/TakuyaFukuoka2/)
