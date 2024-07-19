@@ -11,10 +11,36 @@ lang: ja
 ## 福岡 拓也
 
 ## 経歴
-
 - 2021/3 東京大学大学院 情報理工学系研究科 電子情報学専攻 卒業
 - 2019/3 東京大学工学部 電子情報工学科 卒業
 - 2015/4 東京大学教養学部 理科一類 入学
+
+## スキル
+- Ruby, Python, C, C++
+- IaC (ansible)
+- 並列プログラミング
+    - MPI, OpenMP, Pthread, CUDA, AVX命令
+- RDMA (Remote Direct Memory Access)
+    - InfiniBand verbs
+- サーバー
+    - LDAP, DNS, DHCP, NFS, POP3, SMTP, IPMI
+
+## 資格
+- TOEIC 970 (online)
+- ネットワークスペシャリスト
+- データベーススペシャリスト
+- 情報処理安全確保支援士 (未登録)
+- 認定スクラムマスター®
+- 珠算二段
+- 暗算五段
+- 普通自動車免許
+
+## 執筆
+- [HPE Discover 2024 参加報告](https://engineers.ntt.com/entry/202407-hpe-discover-2024/entry)
+- [リリースプロセス改善のために工夫して自動化を推し進めたらチームの底力が爆上がりした話](https://engineers.ntt.com/entry/2024/06/05/135137)
+- [【社員紹介#5】コンピュータが好きなエンジニアからすると楽園のような職場です（クラウド開発エンジニア）](https://note.nttdocomo-fresh.jp/n/nafc6bfa49df2)
+- [【インタビュー公開】NTT もクラウドを作っているって知ってた？国産クラウド開発の「秘密」に迫る](https://note.nttdocomo-fresh.jp/n/n7c6979844167)
+- [「業務で ISUCON することになった話」について Tech Night で発表しました](https://engineers.ntt.com/entry/2022/10/12/080909)
 
 ## 研究
 
@@ -81,31 +107,6 @@ lang: ja
 - **株式会社 Unipro 長期インターン参加**
     - 2016/12 -- 2017/4
     - 自然言語処理・機械学習を用いた開発業務に従事
-
-## スキル
-- C, C++
-- Python
-- 並列プログラミング
-    - MPI, OpenMP, Pthread, CUDA, AVX命令
-- RDMA (Remote Direct Memory Access)
-    - InfiniBand verbs
-- サーバ管理
-    - LDAP, DNS, DHCP, NFS, POP3, SMTP, IPMI
-
-## 資格
-- TOEIC 970 (online)
-- ネットワークスペシャリスト
-- データベーススペシャリスト
-- 情報処理安全確保支援士 (未登録)
-- 認定スクラムマスター®
-- 珠算二段
-- 暗算五段
-- 普通自動車免許
-
-## 執筆
-- [HPE Discover 2024 参加報告](https://engineers.ntt.com/entry/202407-hpe-discover-2024/entry)
-- [リリースプロセス改善のために工夫して自動化を推し進めたらチームの底力が爆上がりした話](https://engineers.ntt.com/entry/2024/06/05/135137)
-- [「業務で ISUCON することになった話」について Tech Night で発表しました](https://engineers.ntt.com/entry/2022/10/12/080909)
 
 ## その他
 - [Blog](http://tkygtr6.hatenablog.com/)
