@@ -11,19 +11,25 @@ lang: ja
 ## 福岡 拓也
 
 ## 経歴
-- 2021/3 東京大学大学院 情報理工学系研究科 電子情報学専攻 卒業
+- 2021/4 NTTコミュニケーションズ株式会社入社
+- 2021/3 東京大学大学院 情報理工学系研究科 電子情報学専攻 修了
 - 2019/3 東京大学工学部 電子情報工学科 卒業
 - 2015/4 東京大学教養学部 理科一類 入学
 
 ## スキル
-- Ruby, Python, C, C++
-- IaC (ansible)
+- プログラミング
+  - Ruby, Python, C, C++
+- ミドルウェア
+  - GitHub Actions, ElasticSearch, Kibana, RabbitMQ, Redis
+- サーバー
+  - Ubuntu, RHEL, vSphere, Windows
+  - IaC (ansible)
+  - BMC, IPMI, Redfish, UEFI/BIOS
+  - kickstart, PXE, Windows ADK/MDT
 - 並列プログラミング
     - MPI, OpenMP, Pthread, CUDA, AVX命令
 - RDMA (Remote Direct Memory Access)
     - InfiniBand verbs
-- サーバー
-    - LDAP, DNS, DHCP, NFS, POP3, SMTP, IPMI
 
 ## 資格
 - TOEIC 970 (online)
